@@ -1,2 +1,5 @@
-# Developing-ChatApp-Using-Reactjs-and-Firebase
-The ChatApp project is a real-time messaging application built using ReactJS for the frontend and Firebase for the backend services. The primary goal of this project was to create an interactive and user-friendly communication platform that enables seamless real-time conversations, showcasing both frontend and backend integration skills.
+# Update
+
+After the new update of React, you won't be able to use CRA. But you can easily create your applications with Vite before following the video tutorial.
+
+[Create a React App with Vite](https://github.com/safak/youtube23/tree/react-mini)
